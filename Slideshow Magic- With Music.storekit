@@ -1,0 +1,372 @@
+{
+  "identifier" : "9772766F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "1191789937",
+      "localizations" : [
+        {
+          "description" : "Unlocks all features and removes ads forever",
+          "displayName" : "Get Everything",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.geteverything",
+      "referenceName" : "Get Everything",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "1031865390",
+      "localizations" : [
+        {
+          "description" : "This purchase will remove all the ads shown in the application.",
+          "displayName" : "Remove ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.removeads",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "1050109004",
+      "localizations" : [
+        {
+          "description" : "This purchase will remove final slide from the Slideshow Video in the application.",
+          "displayName" : "Remove Final Slide",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.removefinalslide",
+      "referenceName" : "Remove Final Slide",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "1459876504",
+      "localizations" : [
+        {
+          "description" : "Removes the watermark and last slide image",
+          "displayName" : "Remove Watermark & Final Slide",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Removes the watermark and last slide image",
+          "displayName" : "Remove Watermark & Final Slide",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "Removes the watermark and last slide image",
+          "displayName" : "Remove Watermark & Final Slide",
+          "locale" : "es_MX"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.removewatermark",
+      "referenceName" : "Remove Watermark and Final Slide",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "1141810139",
+      "localizations" : [
+        {
+          "description" : "Unlock Stock Music for $2.99?",
+          "displayName" : "Stock Music",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.stockmusic",
+      "referenceName" : "Stock Music",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "1351210201",
+      "localizations" : [
+        {
+          "description" : "Unlock stock music for $2.99",
+          "displayName" : "Stock Music",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.stockmusic_2.99",
+      "referenceName" : "stock music 2.99",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "1459876147",
+      "localizations" : [
+        {
+          "description" : "This purchase will unlock all the transitions",
+          "displayName" : "Unlock Transitions",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "This purchase will unlock all the transitions",
+          "displayName" : "Unlock Transitions",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "This purchase will unlock all the transitions",
+          "displayName" : "Unlock Transitions",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.unlocktransitions",
+      "referenceName" : "Unlock Transitions",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "1437790326",
+      "localizations" : [
+        {
+          "description" : "To Add Unlimited photos in Slideshow",
+          "displayName" : "Unlock Unlimited Photos",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.grassapper.slideshowmagic.unlockUnlimitedPhotos",
+      "referenceName" : "Unlock Unlimited Photos",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1031863788",
+    "_developerTeamID" : "GLC52ZXC24",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 742605870.02268505,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "20522883",
+      "localizations" : [
+
+      ],
+      "name" : "Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1462959013",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlocks all features and remove ads",
+              "displayName" : "3 Months Pro Subscription",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "Unlocks all features and remove ads",
+              "displayName" : "3 Months Pro Subscription",
+              "locale" : "es_MX"
+            },
+            {
+              "description" : "Unlocks all features and remove ads.",
+              "displayName" : "3 Months Pro Subscription",
+              "locale" : "es_ES"
+            }
+          ],
+          "productID" : "com.grassapper.slideshowmagic.pro.3monthly",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "3 Month Pro",
+          "subscriptionGroupID" : "20522883",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1465512646",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlocks all features and remove ads",
+              "displayName" : "Monthly Subscription",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "Unlocks all features and remove ads",
+              "displayName" : "Monthly Subscription",
+              "locale" : "es_ES"
+            },
+            {
+              "description" : "Unlocks all features and remove ads",
+              "displayName" : "Monthly Subscription",
+              "locale" : "es_MX"
+            }
+          ],
+          "productID" : "com.grassapper.slideshowmagic.pro.1monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly Pro",
+          "subscriptionGroupID" : "20522883",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1462959849",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock all features and remove ads.",
+              "displayName" : "Unlocks Pro for 1 year",
+              "locale" : "es_MX"
+            },
+            {
+              "description" : "Unlock all features and remove ads.",
+              "displayName" : "Unlocks Pro for 1 year",
+              "locale" : "es_ES"
+            },
+            {
+              "description" : "Unlock all features and remove ads.",
+              "displayName" : "Unlocks Pro for 1 year",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.grassapper.slideshowmagic.pro.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Yearly Pro",
+          "subscriptionGroupID" : "20522883",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "20522408",
+      "localizations" : [
+
+      ],
+      "name" : "Pro Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "1541088188",
+          "introductoryOffer" : {
+            "internalID" : "29C0465C",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "Unlock all features",
+              "displayName" : "Weekly Subscription",
+              "locale" : "es_MX"
+            },
+            {
+              "description" : "Unlock all features",
+              "displayName" : "Weekly Subscription",
+              "locale" : "es_ES"
+            },
+            {
+              "description" : "Unlock all features",
+              "displayName" : "Weekly Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.grassapper.slideshowmagic.pro.1weekly",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "Weekly",
+          "subscriptionGroupID" : "20522408",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
